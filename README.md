@@ -1,2 +1,2 @@
 # Listas-Lineares-Encadeadas
-Atividades da faculdade.
+Exercícios em c++
